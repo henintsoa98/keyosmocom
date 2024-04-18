@@ -1,3 +1,4 @@
+This table is the default key of my sysmosim, so script on this repo only run on my sim only
 <table width="100%" border="1">
 	<tbody><tr>
 		<th>IMSI</th>
