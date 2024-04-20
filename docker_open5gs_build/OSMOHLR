@@ -1,0 +1,20 @@
+subscriber imsi 999700000087870 create
+subscriber imsi 999700000087870 update msisdn 00000001
+subscriber imsi 999700000087871 create
+subscriber imsi 999700000087871 update msisdn 00000002
+subscriber imsi 999700000087872 create
+subscriber imsi 999700000087872 update msisdn 00000003
+subscriber imsi 999700000087873 create
+subscriber imsi 999700000087873 update msisdn 00000004
+subscriber imsi 999700000087874 create
+subscriber imsi 999700000087874 update msisdn 00000005
+subscriber imsi 999700000087875 create
+subscriber imsi 999700000087875 update msisdn 00000006
+subscriber imsi 999700000087876 create
+subscriber imsi 999700000087876 update msisdn 00000007
+subscriber imsi 999700000087877 create
+subscriber imsi 999700000087877 update msisdn 00000008
+subscriber imsi 999700000087878 create
+subscriber imsi 999700000087878 update msisdn 00000009
+subscriber imsi 999700000087879 create
+subscriber imsi 999700000087879 update msisdn 00000010
